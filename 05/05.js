@@ -1,0 +1,5 @@
+function strlen(){
+}
+
+function concat(){
+}
